@@ -53,19 +53,19 @@ function pintaTabla() {
 
 const partides = [
     {
-        avatar: "/img/account-avatar-profile-user-3-svgrepo-com.svg",
+        avatar: "https://www.svgrepo.com/show/384671/account-avatar-profile-user-14.svg",
         nick: 'Raul',
         puntos: '1000',
         fecha: "1 JUNIO 2023"
     },
     {
-        avatar: "/img/account-avatar-profile-user-13-svgrepo-com.svg",
+        avatar: "https://www.svgrepo.com/show/384673/account-avatar-profile-user-5.svg",
         nick: 'Rodri',
         puntos: '400',
         fecha: "1 Enero 2004"
     },
     {
-        avatar: "/img/account-avatar-profile-user-14-svgrepo-com.svg",
+        avatar: "https://www.svgrepo.com/show/384679/account-avatar-profile-user-3.svg",
         nick: 'Pau',
         puntos: '10',
         fecha: "1 MAYO 2000"
